@@ -1,2 +1,2 @@
-#jogo jogo jogo
+#projeto jogo em python
 print('Jogo!')
